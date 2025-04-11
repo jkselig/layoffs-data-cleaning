@@ -24,7 +24,7 @@ layoffs-data-cleaning/
 
 ## 🛠️ Tools Used
 - MySQL 8
-- SQL (window functions, CTEs, joins, updates)
+- SQL (window functions,  CTEs, joins, updates)
 
 ## 🧠 Skills Demonstrated
 - Data profiling
@@ -32,3 +32,4 @@ layoffs-data-cleaning/
 - Date parsing
 - NULL handling
 - SQL best practices
+
